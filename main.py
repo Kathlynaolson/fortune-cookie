@@ -22,7 +22,7 @@ def getRandomFortune():
     fortunes = [
         "I see much code in your future",
         "Consider eating more fortune cookies",
-        "You have tamed the mighty Python, now yiu must release it onto the Great Spider's Web!"
+        "You have tamed the mighty Python, now you must release it onto the Great Spider's Web!"
     ]
     index = random.randint(0,2)
 
